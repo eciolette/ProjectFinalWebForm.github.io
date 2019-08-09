@@ -1,0 +1,16 @@
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\bin\Debug\ProjectFinalWebForm.exe.config
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\bin\Debug\ProjectFinalWebForm.exe
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\bin\Debug\ProjectFinalWebForm.pdb
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.csprojAssemblyReference.cache
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\MainWindow.g.cs
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\App.g.cs
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm_MarkupCompile.cache
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm_MarkupCompile.lref
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\MainWindow.baml
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.g.resources
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.Properties.Resources.resources
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.csproj.GenerateResource.cache
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.csproj.CoreCompileInputs.cache
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.exe
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm.pdb
+C:\Eder Ciolette\Web\ProjectFinalWebForm.github.io\ProjectFinalWebForm\obj\Debug\ProjectFinalWebForm_Content.g.cs
